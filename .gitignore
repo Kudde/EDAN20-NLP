@@ -3,6 +3,10 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+a4/ud-treebanks-v2.2/
+a5/model2.pkl
+a5/x3.pkl
+
 # C extensions
 *.so
 
